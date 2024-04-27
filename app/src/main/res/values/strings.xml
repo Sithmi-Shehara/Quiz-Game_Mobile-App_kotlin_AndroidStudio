@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Maths Quiz Game</string>
+    <string name="maths_quiz">Maths-Quiz</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="divide">Divide</string>
+    <string name="random">Random</string>
+    <string name="exit">Exit</string>
+    <string name="level_1">Level 1</string>
+    <string name="score_0">Score: 0</string>
+    <string name="_10">10</string>
+    <string name="_134">134</string>
+    <string name="_135">135</string>
+    <string name="_134_5">134.5</string>
+    <string name="_135_5">135.5</string>
+    <string name="game_over">Game Over!</string>
+    <string name="space_for_ad">Space For Ad.</string>
+</resources>
